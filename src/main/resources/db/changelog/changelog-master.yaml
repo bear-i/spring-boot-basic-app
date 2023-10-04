@@ -1,5 +1,0 @@
-databaseChangeLog:
-  - include:
-      file: classpath:db/changelog/init-schema.sql
-  - include:
-      file: classpath:db/changelog/init-data.sql
